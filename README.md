@@ -7,4 +7,4 @@ Drop the folder "ventoy" into thee root of your USB stick with Ventoy installed 
 
 ## Preview
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "theme preview")
+![alt text](https://raw.githubusercontent.com/PushkaCom/Ventoy-Theme-Terminal-Raccoon/refs/heads/main/z_preview.jpg "theme preview")
